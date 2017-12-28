@@ -1,0 +1,8 @@
+node_modules
+*.scss
+gulpfile.js
+.travis.yml
+.package.json
+LICENSE
+README.md
+
